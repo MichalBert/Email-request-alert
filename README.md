@@ -48,13 +48,12 @@ Kód
 ## 📁 Repository Structure
 
 📁 email-request-alert
-│
-├── README.md
-├── flow-export.zip
-└── screenshots/
-├── flow-overview.png
-├── condition.png
-└── action.png
+README.md
+flow-export.zip
+screenshots/
+flow-overview.png
+condition.png
+action.png
 
 Kód
 
